@@ -1,0 +1,3 @@
+[submodule "E4Tester"]
+	path = E4Tester
+	url = https://github.com/opcoach/E4Tester.git
